@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey 👋, I'm Urvil.
 
-<!--
-**urvil38/urvil38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/github/followers/urvil38?label=Follow&style=social)](https://github.com/urvil38)
 
-Here are some ideas to get you started:
+I ❤ Open Source. Long term student. I love exporing technology and [Go](https://golang.org).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* GSoC'19 Student Developer ([project](https://summerofcode.withgoogle.com/archive/2019/projects/6201904034480128/))
+
+  - [opa-iptables](https://github.com/open-policy-agent/contrib/tree/master/opa-iptables)
+* Long-time Golang user
+* Love reading research papers on distributed computing and networking
+* Author of many Go tools ([kubepaas](https://github.com/urvil38/kubepaas), [fileserver](https://github.com/urvil38/fileserver), [kmanager](https://github.com/urvil38/kmanager), [git-push](https://github.com/urvil38/git-push), etc)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urvil38&hide=html)
