@@ -10,5 +10,3 @@ I ❤ Open Source. Long term student. I love exporing technology and [Go](https:
 * Long-time Golang user
 * Love reading research papers on distributed computing and networking
 * Author of many Go tools ([kubepaas](https://github.com/urvil38/kubepaas), [fileserver](https://github.com/urvil38/fileserver), [kmanager](https://github.com/urvil38/kmanager), [git-push](https://github.com/urvil38/git-push), etc)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urvil38&hide=html)
