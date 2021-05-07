@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/urvil38?label=Follow&style=social)](https://github.com/urvil38)
 
-I ❤ Open Source. Long term student. I love exploring technology and [Go](https://golang.org).
+I ❤ Open Source, exploring technologies and [Go](https://golang.org).
 
 * GSoC'19 Student Developer ([project](https://summerofcode.withgoogle.com/archive/2019/projects/6201904034480128/))
 
